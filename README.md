@@ -32,8 +32,7 @@
 
 ## 💬 Let's Connect
 - 📧 Email: smartcd007@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/charandhingra](https://www.linkedin.com/in/charandhingra)
-
+- 💼 LinkedIn: www.linkedin.com/in/charandeepsinghdhingra
 ---
 
 ⚡ **Fun Fact**: I started my career as a math teacher and now code REST APIs — never stop learning!
